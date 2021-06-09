@@ -1,0 +1,26 @@
+{
+  "title": "Create Next App",
+  "h1": {
+    "part1": "Welcome to",
+    "part2": "on"
+  },
+  "subtitle": "Get started by editing",
+  "change-locale": "Change Locale",
+  "documentation": {
+    "title": "Documentation",
+    "desc": "Find in-depth information about Next.js features and API."
+  },
+  "learn": {
+    "title": "Learn",
+    "desc": "Learn about Next.js in an interactive course with quizzes!"
+  },
+  "example": {
+    "title": "Example",
+    "desc": "Discover and deploy boilerplate example Next.js projects."
+  },
+  "deploy": {
+    "title": "Deploy",
+    "desc": "Instantly deploy your Next.js site to a public URL with Vercel."
+  },
+  "powered": "Powered by"
+}

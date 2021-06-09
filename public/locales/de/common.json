@@ -1,0 +1,26 @@
+{
+  "title": "Next App Kreieren",
+  "h1": {
+    "part1": "Willkommen zu",
+    "part2": "mit"
+  },
+  "subtitle": "Fang an! Bearbeite dafür einfach",
+  "change-locale": "Sprache Wechseln",
+  "documentation": {
+    "title": "Dokumentation",
+    "desc": "Hier finden Sie ausführliche Informationen zu den Funktionen und der API von Next.js."
+  },
+  "learn": {
+    "title": "Lerne",
+    "desc": "Lernen Sie Next.js in einem interaktiven Kurs mit Quizzes kennen!"
+  },
+  "example": {
+    "title": "Beispiel",
+    "desc": "Entdecken und implementieren Sie die Beispiele für Next.js-Projekte."
+  },
+  "deploy": {
+    "title": "Einrichten",
+    "desc": "Richten Sie Ihre Next.js-Projekt mit Vercel sofort auf einer öffentlichen URL ein."
+  },
+  "powered": "Angetrieben von"
+}
